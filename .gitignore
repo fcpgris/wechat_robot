@@ -1,6 +1,8 @@
 # Eclipse file
 .classpath
 .project
+.settings/
 
 # target directory
 **/target/
+/target/
