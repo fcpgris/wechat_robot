@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Hello Eric!
  *
  */
-@SpringBootApplication
+@SpringBootApplication111
 public class WechatServiceLauncher 
 {
 	//TODO check log level
